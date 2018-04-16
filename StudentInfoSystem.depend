@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1523514257 source:d:\datastruct\studentinfosystem\main.cpp
+	<iostream>
+	"infoSystem.cpp"
+	"console.cpp"
+	"activity.cpp"
+	"lessonListPage.cpp"
+	"studentListPage.cpp"
+	"inputPage.cpp"
+
+1523511801 d:\datastruct\studentinfosystem\linklist.cpp
+	<functional>
+
+1523002930 d:\datastruct\studentinfosystem\console.cpp
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1523472548 d:\datastruct\studentinfosystem\infosystem.cpp
+	"linklist.cpp"
+	"student.cpp"
+	"console.cpp"
+	<iostream>
+
+1523515804 d:\datastruct\studentinfosystem\student.cpp
+	"lesson.cpp"
+	<string.h>
+
+1523118799 d:\datastruct\studentinfosystem\lesson.cpp
+	<string.h>
+	"utils.cpp"
+
+1523169571 d:\datastruct\studentinfosystem\activity.cpp
+	"console.cpp"
+	"utils.cpp"
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<unistd.h>
+	<unistd.h>
+
+1523077434 d:\datastruct\studentinfosystem\listpage.cpp
+	"utils.cpp"
+
+1523098319 d:\datastruct\studentinfosystem\utils.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1523514140 d:\datastruct\studentinfosystem\studentlistpage.cpp
+	"utils.cpp"
+
+1523431607 d:\datastruct\studentinfosystem\lessonlistpage.cpp
+	"utils.cpp"
+	"lesson.cpp"
+
+1523114332 d:\datastruct\studentinfosystem\string.cpp
+	<stdio.h>
+	<string.h>
+	<memory>
+	<stdarg.h>
+
+1523118485 d:\datastruct\studentinfosystem\file.cpp
+	<stdarg.h>
+	<unistd.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"string.cpp"
+
+1523172043 d:\datastruct\studentinfosystem\findpage.cpp
+
+1523430233 d:\datastruct\studentinfosystem\inputpage.cpp
+	"console.cpp"
+
