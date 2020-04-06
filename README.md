@@ -1,11 +1,18 @@
 # StudentInfoSystem
 学生信息管理系统，带图像化界面。
+
 代码是GBK编码。
+
 没有makefile
+
 直接编译运行main.cpp。
+
 控制为按键控制。
+
 上下左右，Enter Esc 等。
+
 搜索按f，按照不同的排序按1,2,3,4（见studentListPage.cpp)
+
 LinkList 为可以储存任何类型的链表。
 
 #### 使用方法
